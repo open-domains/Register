@@ -1,0 +1,15 @@
+{
+    "description": "Project Description",
+    "domain": "is-not-a.dev",
+    "subdomain": "mycool-05",
+
+    "owner": {
+        "repo": "https://github.com/fgtkrish/repo"
+    },
+    
+    "record": {
+        "A": ["76.184.228.113"]
+    },
+
+    "proxied": false
+}
