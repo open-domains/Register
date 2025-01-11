@@ -1,0 +1,15 @@
+{
+    "description": "A MTR Minecraft server for Spanish Metro",
+    "domain": "localplayer.dev",
+    "subdomain": "citytransportsimulator",
+
+    "owner": {
+        "email": "phoenixmc.developer@gmail.com"
+    },
+
+    "record": {
+        "A": ["130.61.186.184"]
+    },
+
+    "proxied": false
+}
