@@ -1,0 +1,15 @@
+{
+    "description": "Portfolio",
+    "domain": "is-not-a.dev",
+
+    "owner": {
+        "repo": "https://github.com/Dhruvkoshta/Dhruvkoshta.github.io",
+        "email": "dhruvkoshta04@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "dhruvkoshta.github.io",
+    },
+
+    "proxied": false
+}
